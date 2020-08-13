@@ -1,0 +1,6 @@
+D:\LDC\2020-2021\DOTNET\programs\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+D:\LDC\2020-2021\DOTNET\programs\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\LDC\2020-2021\DOTNET\programs\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\LDC\2020-2021\DOTNET\programs\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+D:\LDC\2020-2021\DOTNET\programs\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\LDC\2020-2021\DOTNET\programs\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
